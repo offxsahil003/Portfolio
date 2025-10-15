@@ -1,0 +1,25 @@
+{
+  "documents": [],
+  "tables_parsed": [],
+  "tables_source_info": [],
+  "images": [
+    {
+      "original_name": "https://i.ibb.co/gMCS3FJj/profile.jpg",
+      "file_name": "profile.jpg",
+      "file_path": "/workspace/sahil_shah_portfolio/public/images/profile.jpg",
+      "rel_path": "images/profile.jpg",
+      "file_type": "jpg",
+      "category": "images"
+    }
+  ],
+  "summary": {
+    "total_files": 1,
+    "by_category": {
+      "documents": 0,
+      "tables_parsed": 0,
+      "tables_source_info": 0,
+      "images": 1
+    },
+    "processing_time": null
+  }
+}
